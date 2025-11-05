@@ -13,12 +13,12 @@ This Power BI dashboard provides a comprehensive analysis of **hotel performance
 ### 📈 Dashboard Visuals
 The dashboard is designed for clarity and storytelling, featuring the following visuals:
 **KPI Cards:** Display key metrics —
-• Revenue: ₹1.69B
-• RevPAR: ₹7,337
-• ADR: ₹12.70K
-• DSRN: 2,528
-• Occupancy %: 57.8%
-• Realisation %: 70.1%
+- Revenue: ₹1.69B
+- RevPAR: ₹7,337
+- ADR: ₹12.70K
+- DSRN: 2,528
+- Occupancy %: 57.8%
+- Realisation %: 70.1%
 (Week-on-Week Change: Revenue ↑0.20%, ADR ↑0.19%, Realisation ↓0.03%)
 **Performance Trends:** Visual comparison of ADR, RevPAR, and Occupancy % across time.
 **Revenue Composition:** Breakdown of revenue contribution by property category (Luxury vs Business).
