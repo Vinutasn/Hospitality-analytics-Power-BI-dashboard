@@ -40,4 +40,5 @@ This project was developed using **Power BI Desktop**. The data model connects m
 
 ### 📧 Contact
 For any queries, feedback, or collaboration opportunities, feel free to connect:
+
 **E-mail:** vinuta.nadiger1@gmail.com
